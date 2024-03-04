@@ -4,8 +4,8 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "sd_xl_offset_example-lora_1.0.safetensors",
-            0.1
+            "None",
+            1.0
         ],
         [
             "None",
@@ -42,7 +42,8 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
+        "cinematic lighting.safetensors": "https://huggingface.co/ntc-ai/SDXL-LoRA-slider.cinematic-lighting/resolve/main/cinematic%20lighting.safetensors",
+        "pixar-style.safetensors": "https://huggingface.co/ntc-ai/SDXL-LoRA-slider.pixar-style/resolve/main/pixar-style.safetensors"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
