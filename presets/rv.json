@@ -1,5 +1,5 @@
 {
-    "default_model": "rv.safetensors",
+    "default_model": "RealVisXL_V4.0_Lightning.safetensors",
     "default_refiner": "",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "realisticStockPhoto_v20.safetensors": "https://civitai.com/api/download/models/361593"
+        "RealVisXL_V4.0_Lightning.safetensors": "https://huggingface.co/SG161222/RealVisXL_V4.0_Lightning/resolve/main/RealVisXL_V4.0_Lightning.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
