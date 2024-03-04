@@ -95,7 +95,7 @@ controlnet_image_count = 4
 
 
 class Steps(IntEnum):
-    QUALITY = 4
+    QUALITY = 10
     SPEED = 4
     EXTREME_SPEED = 4
 
