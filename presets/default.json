@@ -42,8 +42,11 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "cinematic lighting.safetensors": "https://huggingface.co/ntc-ai/SDXL-LoRA-slider.cinematic-lighting/resolve/main/cinematic%20lighting.safetensors",
-        "pixar-style.safetensors": "https://huggingface.co/ntc-ai/SDXL-LoRA-slider.pixar-style/resolve/main/pixar-style.safetensors"
+        "more-artfull.safetensors": "https://civitai.com/api/download/models/152309?type=Model&format=SafeTensor",
+        "faetaestic-enhancer.safetensors": "https://civitai.com/api/download/models/293991?type=Model&format=SafeTensor",
+        "add more details.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
+        "desolation-artstyle.safetensors": "https://civitai.com/api/download/models/302830?type=Model&format=SafeTensor",
+        
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
