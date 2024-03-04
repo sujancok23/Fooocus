@@ -42,7 +42,6 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "xl_more_art-full_v1.safetensors": "https://civitai.com/api/download/models/152309?type=Model&format=SafeTensor",
         "SDXLFaeTastic2400.safetensors": "https://civitai.com/api/download/models/293991?type=Model&format=SafeTensor",
         "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
         "Desolation.safetensors": "https://civitai.com/api/download/models/302830?type=Model&format=SafeTensor"
