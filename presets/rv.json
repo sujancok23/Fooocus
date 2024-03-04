@@ -1,11 +1,11 @@
 {
     "default_model": "RealVisXL_V4.0_Lightning.safetensors",
-    "default_refiner": "",
+    "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
-            0.25
+            "None",
+            1.0
         ],
         [
             "None",
@@ -26,23 +26,31 @@
     ],
     "default_cfg_scale": 1.5,
     "default_sample_sharpness": 2.0,
-    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_sampler": "dpmpp_sde",
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "",
-    "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
+    "default_prompt_negative": "(octane render, render, drawing, anime, bad photo, bad photography:1.3), (worst quality, low quality, blurry:1.2), (bad teeth, deformed teeth, deformed lips), (bad anatomy, bad proportions:1.1), (deformed iris, deformed pupils), (deformed eyes, bad eyes), (deformed face, ugly face, bad face), (deformed hands, bad hands, fused fingers), morbid, mutilated, mutation, disfigured",
     "default_styles": [
         "Fooocus V2",
-        "Fooocus Photograph",
-        "Fooocus Negative"
+        "Fooocus Enhance",
+        "Fooocus Sharp"
     ],
-    "default_aspect_ratio": "896*1152",
+    "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
         "RealVisXL_V4.0_Lightning.safetensors": "https://huggingface.co/SG161222/RealVisXL_V4.0_Lightning/resolve/main/RealVisXL_V4.0_Lightning.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors"
+        "SDXLFaeTastic2400.safetensors": "https://civitai.com/api/download/models/293991?type=Model&format=SafeTensor",
+        "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
+        "Desolation.safetensors": "https://civitai.com/api/download/models/302830?type=Model&format=SafeTensor"
     },
-    "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
+    "previous_default_models": [
+        "juggernautXL_version8Rundiffusion.safetensors",
+        "juggernautXL_version7Rundiffusion.safetensors",
+        "juggernautXL_v7Rundiffusion.safetensors",
+        "juggernautXL_version6Rundiffusion.safetensors",
+        "juggernautXL_v6Rundiffusion.safetensors"
+    ]
 }
