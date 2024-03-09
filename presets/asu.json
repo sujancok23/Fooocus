@@ -42,12 +42,9 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "SDXLFaeTastic2400.safetensors": "https://civitai.com/api/download/models/293991?type=Model&format=SafeTensor",
         "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
-        "Desolation.safetensors": "https://civitai.com/api/download/models/302830?type=Model&format=SafeTensor",
         "eastasiangirl.safetensors": "https://civitai.com/api/download/models/137075?type=Model&format=SafeTensor",
-        "xxmixgirl.safetensors": "https://civitai.com/api/download/models/148469",
-        "ps1-style.safetensors": "https://civitai.com/api/download/models/147912?type=Model&format=SafeTensor"
+        "xxmixgirl.safetensors": "https://civitai.com/api/download/models/148469"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
