@@ -1,5 +1,5 @@
 {
-    "default_model": "DreamShaperXL_Lightning-SFW.safetensors",
+    "default_model": "Juggernaut_RunDiffusionPhoto2_Lightning_4Steps.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,16 +38,15 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "DreamShaperXL_Lightning-SFW.safetensors": "https://huggingface.co/Lykon/dreamshaper-xl-lightning/resolve/main/DreamShaperXL_Lightning-SFW.safetensors"
+        "Juggernaut_RunDiffusionPhoto2_Lightning_4Steps.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-Lightning/resolve/main/Juggernaut_RunDiffusionPhoto2_Lightning_4Steps.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "SDXLFaeTastic2400.safetensors": "https://civitai.com/api/download/models/293991?type=Model&format=SafeTensor",
         "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
         "Desolation.safetensors": "https://civitai.com/api/download/models/302830?type=Model&format=SafeTensor",
-        "AbyssalTech.safetensors": "https://civitai.com/api/download/models/215535?type=Model&format=SafeTensor",
-        "DarkNovel.safetensors": "https://civitai.com/api/download/models/292854?type=Model&format=SafeTensor",
-        "a photo of transparent ghost.safetensors": "https://civitai.com/api/download/models/147350?type=Model&format=SafeTensor",
+        "eastasiangirl.safetensors": "https://civitai.com/api/download/models/137075?type=Model&format=SafeTensor",
+        "xxmixgirl.safetensors": "https://civitai.com/api/download/models/148469",
         "ps1-style.safetensors": "https://civitai.com/api/download/models/147912?type=Model&format=SafeTensor"
     },
     "previous_default_models": [
