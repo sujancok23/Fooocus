@@ -1,5 +1,5 @@
 {
-    "default_model": "Juggernaut_RunDiffusionPhoto2_Lightning_4Steps.safetensors",
+    "default_model": "leo.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,13 +38,11 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "Juggernaut_RunDiffusionPhoto2_Lightning_4Steps.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XL-Lightning/resolve/main/Juggernaut_RunDiffusionPhoto2_Lightning_4Steps.safetensors"
+        "leo.safetensors": "https://civitai.com/api/download/models/355837"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
-        "eastasiangirl.safetensors": "https://civitai.com/api/download/models/137075?type=Model&format=SafeTensor",
-        "xxmixgirl.safetensors": "https://civitai.com/api/download/models/148469"
+        "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
