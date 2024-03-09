@@ -41,9 +41,7 @@
         "LeosamHelloworldXL.safetensors": "https://civitai.com/api/download/models/355837"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor"
-    },
+    "lora_downloads": {},
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
         "juggernautXL_version7Rundiffusion.safetensors",
