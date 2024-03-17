@@ -1,0 +1,56 @@
+{
+    "default_model": "helloworld.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 1.5,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_sde",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "",
+    "default_prompt_negative": "",
+    "default_styles": [
+        "Fooocus V2",
+        "Fooocus Enhance",
+        "Fooocus Sharp"
+    ],
+    "default_aspect_ratio": "1152*896",
+    "checkpoint_downloads": {
+        "helloworld.safetensors": "https://civitai.com/api/download/models/355837"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {
+        "SDXLFaeTastic2400.safetensors": "https://civitai.com/api/download/models/293991?type=Model&format=SafeTensor",
+        "add-detail-xl.safetensors": "https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor",
+        "Desolation.safetensors": "https://civitai.com/api/download/models/302830?type=Model&format=SafeTensor"
+    },
+    "previous_default_models": [
+        "juggernautXL_version8Rundiffusion.safetensors",
+        "juggernautXL_version7Rundiffusion.safetensors",
+        "juggernautXL_v7Rundiffusion.safetensors",
+        "juggernautXL_version6Rundiffusion.safetensors",
+        "juggernautXL_v6Rundiffusion.safetensors"
+    ]
+}
