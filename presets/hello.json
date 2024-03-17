@@ -1,5 +1,5 @@
 {
-    "default_model": "helloworld.safetensors",
+    "default_model": "anima.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "helloworld.safetensors": "https://civitai.com/api/download/models/355837"
+        "anima.safetensors": "https://civitai.com/api/download/models/264035"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
